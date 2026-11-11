@@ -13,4 +13,5 @@ Version 1.0 – Updated processing workflow
 This version introduces an updated MATLAB processing script corresponding to the updated version of the multimodal driving dataset. The original processing script is preserved to ensure compatibility with the previous dataset version.
 
 The DOI for this version will be added upon publication in Zenodo.
-https://doi.org/10.5281/zenodo.23236332
+10.5281/zenodo.24137291
+
